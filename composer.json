@@ -19,6 +19,5 @@
   },
   "autoload": {
   	"psr-0": { "yii\\calendar\\": "" }
-  },
-  "target-dir": "yii/calendar"
+  }
 }
