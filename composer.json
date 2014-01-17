@@ -1,0 +1,24 @@
+{
+  "name": "filsh/yii2-calendar",
+  "description": "Calendar for yii2 framework",
+  "keywords": ["yii", "calendar"],
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "support": {
+  	"email": "imaliy.filsh@gmail.com",
+  	"source": "https://github.com/filsh/yii2-pickadate"
+  },
+  "authors": [
+  	{
+  		"name": "Igor Maliy",
+  		"email": "imaliy.filsh@gmail.com"
+  	}
+  ],
+  "require": {
+  	"yiisoft/yii2": "*"
+  },
+  "autoload": {
+  	"psr-0": { "yii\\calendar\\": "" }
+  },
+  "target-dir": "yii/calendar"
+}
